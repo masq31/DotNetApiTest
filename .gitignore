@@ -1,0 +1,8 @@
+obj
+bin
+testapidb.db
+appsettings.json
+appsettings.Development.json
+.vscode
+Properties
+Migrations
